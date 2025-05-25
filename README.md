@@ -2,7 +2,7 @@
 
 # This readme file consists of the the website's link, Repository Link, OmniDimension Script Tag, Google Spreadsheet Link.
 
-## Note: As the google form only had one field to upload the link and my project had videos, images as well as website links along with github link, hence I though of creating a comming readme that will include every singel stuff. Below are the important links and the videos as well the images will be stored in their seperate folders.
+## Note: As the google form only had one field to upload the link and my project had videos, images as well as website links along with github link, hence I though of creating a comming readme that will include every singel stuff. Below are the important links and the videos as well the images are already uploaded.
 
 ### 1. Link to the website: https://sneakerscout.vercel.app/
 ### 2. Link to the website's repository: https://github.com/mishrayush15/sneakerscout
